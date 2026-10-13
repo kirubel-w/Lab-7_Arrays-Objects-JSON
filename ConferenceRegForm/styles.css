@@ -1,0 +1,22 @@
+body {
+    margin: 5%;
+    background-color: lightgray;
+    font-family: "Roboto", sans-serif;
+}
+
+h1 {
+    color: purple;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+form {
+    background-color: white;
+    padding: 25px;
+    border: 2px solid purple;
+    border-radius: 8px;
+}
+
+label {
+    font-weight: 500;
+}
